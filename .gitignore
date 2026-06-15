@@ -1,1 +1,11 @@
 .__/*
+
+# Local dev / Python
+.venv/
+__pycache__/
+*.pyc
+
+# Fine-tuning artifacts (regenerated on Colab; too large for git)
+mt5-finetuned-health-qa/
+*.safetensors
+checkpoint-*/
