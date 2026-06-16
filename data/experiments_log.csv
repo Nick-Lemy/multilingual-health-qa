@@ -1,2 +1,2 @@
 timestamp,name,val_rouge1,val_rougeL,val_proxy,leaderboard,notes,config
-2026-06-15 16:03,tfidf-retrieval,0.4207,0.3654,0.2908,,Baseline 1: per-language TF-IDF nearest-neighbour retrieval (full train/val),"{""method"": ""tfidf-char-ngram"", ""ngram_range"": ""(3,5)"", ""group_col"": ""subset""}"
+2026-06-15 16:44,tfidf-retrieval,0.4207,0.3654,0.2908,,Baseline 1: per-language TF-IDF nearest-neighbour retrieval,"{""method"": ""tfidf-char-ngram"", ""ngram_range"": ""(3,5)"", ""group_col"": ""subset""}"
