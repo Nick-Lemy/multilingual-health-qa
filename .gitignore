@@ -9,3 +9,4 @@ __pycache__/
 mt5-finetuned-health-qa/
 *.safetensors
 checkpoint-*/
+checkpoints/
